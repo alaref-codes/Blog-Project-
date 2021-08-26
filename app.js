@@ -1,3 +1,8 @@
+/*
+	Blog post project made with node.js and mongodb
+
+*/
+
 const express = require('express');
 const app = express();
 const morgran = require('morgan');
